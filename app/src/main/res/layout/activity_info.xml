@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/iconutama"
+    tools:context="com.whitehouse.frengkyabs.depokresto.info">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nAplikasi ini merupakan informasi tempat makan area Gunadarma Depok \n Terdapat 2 wilayah : \n Margonda \n Kelapa Dua \n Setiap wilayah memiliki List nama Restaurant dengan profile dari restaurant tersebut"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"/>
+
+</RelativeLayout>
